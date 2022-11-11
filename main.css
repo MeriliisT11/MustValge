@@ -1,0 +1,25 @@
+
+body {
+  background-image: url("https://c4.wallpaperflare.com/wallpaper/25/600/953/city-street-cars-trees-black-and-white-city-buildings-gray-scale-photo-wallpaper-preview.jpg");
+}
+.up {
+  margin-top: auto; text-align: center; column-count: 7;
+  }
+
+  h1  {
+    font-size: 25px; font-style:italic; color: white;
+  }
+h2 {
+  font-size: 35px; font-style:italic; color: white;
+}
+.middle { text-align: center;
+  width: 60%;
+  padding: 300px;
+
+}
+h3 {
+  font-size: 45px; font-style:italic; color: white;
+}
+h4 {
+  font-size: 25px; font-style:italic; color: white;
+}
